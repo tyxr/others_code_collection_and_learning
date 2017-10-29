@@ -1,1 +1,1 @@
-# others_code_collection_and_learning
+# 这个文件夹，用来收集别人的代码，为了学习和以后也许能用到。
